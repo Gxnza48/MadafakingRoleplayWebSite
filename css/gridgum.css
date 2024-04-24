@@ -1,0 +1,55 @@
+.white {
+    color: #ffffff;
+}
+.width {
+    width: 100%;
+}
+.demo-block ul a.btn:hover {
+    color: #000;
+}
+.btn-default.btn-white:hover, .btn-default.btn-white:focus, .btn-default.btn-white:active {
+    border-color: #fff;
+    background: #fff;
+}
+.demo-block ul a:hover, .demo-block ul a:focus, .demo-block ul a:active {
+    color: #5900ff;
+}
+.btn-info:hover, .btn-info:focus, .btn-info:active {
+    background: #3700ff;
+    border-color: #1400c9;
+}
+.social-networks a {
+    display: block;
+    width: 31px;
+    height: 31px;
+    text-align: center;
+    color: #fff;
+    font-size: 12px;
+    background: #333;
+    position: relative;
+    overflow: hidden;
+    border-radius: 100%;
+    transition: all 0.25s linear;
+}
+.social-networks a:hover, .social-networks a:focus, .social-networks a:active {
+    background: #ffb302;
+    color: #000000!important;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a.anchor-active, .navbar-default .navbar-nav > li > a:active {
+    color: #4c00ff;
+}
+.btn-default.btn-white:hover, .btn-default.btn-white:focus, .btn-default.btn-white:active {
+    border-color: #ffffff!important;
+    background: #7187ff;
+}
+#footer {
+    color: #d9dbdc;
+    text-align: center;
+    padding-bottom: 77px;
+    background-color: #000000;
+}
+#header.sticky {
+    padding: 30px 0 20px 0!important;
+    background-color: #00000000;
+    color: white;
+}
